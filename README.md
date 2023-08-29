@@ -80,22 +80,40 @@ print("RMSE= ",rmse)
 
 ## Output:
 df head()
+
 ![df head()](https://github.com/Naveensrinivasan07/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475891/bfbab2d5-e452-4d1a-a315-5fa730b09ee6)
+
+
 df tail()
+
 ![df tail()](https://github.com/Naveensrinivasan07/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475891/49195657-c6d5-4520-aa94-6b1fe4bd1aae)
+
 Array value of X
+
 ![Array value of X](https://github.com/Naveensrinivasan07/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475891/0d6092ad-c490-4b80-9796-3a56f7eb50a6)
+
 Array value of y
+
 ![Array value of y](https://github.com/Naveensrinivasan07/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475891/eb82ee76-4486-43c2-b169-794befbd25db)
+
 values of Y prediction
+
 ![values of Y prediction](https://github.com/Naveensrinivasan07/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475891/214caf1a-8793-4587-9a00-6b12629b74bc)
+
 Array value of Y test
+
 ![Array value of Y test](https://github.com/Naveensrinivasan07/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475891/22c675dd-9f58-4b80-99a8-8bbd7ad958ec)
+
 Training set Graph
+
 ![Training set Graph](https://github.com/Naveensrinivasan07/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475891/2bcca399-7c09-464b-9376-e98c91e741f7)
+
 Test set Graph
+
 ![Test set Graph](https://github.com/Naveensrinivasan07/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475891/99117449-d4ff-4d58-9e60-06d568771c01)
+
 Values of MSE,MAE and RMSE
+
 ![Values of MSE,MAE and RMSE](https://github.com/Naveensrinivasan07/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475891/88d90cc3-44ce-4042-bf49-134d9615ae00)
 
 
