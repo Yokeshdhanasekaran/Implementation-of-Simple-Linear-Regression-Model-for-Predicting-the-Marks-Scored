@@ -19,9 +19,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: Yokesh D
 RegisterNumber:  212222220061
 /*
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by:Thrikeswar.P 
-RegisterNumber:212222230162
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
